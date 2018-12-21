@@ -6,4 +6,4 @@ Make money.
 
 APP SCREENSHOT
 Check out some of our awesome screenshot from our app.
-https://github.com/kibson/ComedyHub/commit/d79904f4d765dab85100deac19ae58552ede774d
+
